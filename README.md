@@ -7,7 +7,8 @@ Este repositório foi criado para disponibilizar:
 
 - Os **arquivos necessários para executar o jogo** (compilado para Windows)  
 - Todos os **scripts C# utilizados no desenvolvimento**  
-- Informações técnicas e orientações de uso  
+- Informações técnicas e orientações de uso
+- Disponibilizar as respostas dos alunos que já jogaram o jogo e também, o arquivo python utilizado para analisar as respostas  
 
 ---
 
